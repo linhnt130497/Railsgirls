@@ -12,6 +12,8 @@ gem 'rails', '~> 5.1.4'
 gem 'carrierwave'
 gem "cloudinary"
 gem 'devise'
+
+gem 'gravtastic'
 gem 'mini_magick', '3.8.0'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'

@@ -21,7 +21,13 @@ footer {
 table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #DDD; }
 .copyright {
-    color: #333333;
+    color: #5bc0de;
     font-style: normal;
     font-size: 20px;
+    font-weight: bold;
+}
+.navbar {
+  min-height: 38px;
+  background-color: #b9d7f1 !important;
+  background-image: none !important;
 }
