@@ -1,0 +1,19 @@
+
+development:
+  cloud_name: i-h-c-b-ch-khoa-h-n-i
+  api_key: '594742981476788'
+  api_secret: Y9KZ0SnA7omQcJ4yPeW7CPKEsjw
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: i-h-c-b-ch-khoa-h-n-i
+  api_key: '594742981476788'
+  api_secret: Y9KZ0SnA7omQcJ4yPeW7CPKEsjw
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: i-h-c-b-ch-khoa-h-n-i
+  api_key: '594742981476788'
+  api_secret: Y9KZ0SnA7omQcJ4yPeW7CPKEsjw
+  enhance_image_tag: true
+  static_image_support: false
